@@ -1,5 +1,3 @@
-#concatinate- plus sign, curly string
-
 #enter name
 name = input("What is your name?")
 #enter age
@@ -12,6 +10,3 @@ age_next_year = age + 1
 pi = 3.1416
 
 print(f"Hello, {name}")
-
-
-#mathematical operators- +, -, *, /, %
